@@ -1,10 +1,22 @@
 {
   "tasks": [
     {
-      "text": "Wash the dishes",
-      "day": "Today 8PM",
+      "text": "wash the hair",
+      "day": "today 9:30",
       "reminder": true,
-      "id": 1
+      "id": 2
+    },
+    {
+      "text": "grocceries",
+      "day": "today 10:00",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "go to barber shop",
+      "day": "11:00",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
